@@ -1,0 +1,222 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Noticia Text", serif;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+h4 {
+  color: grey;
+}
+
+h1 {
+  font-family: "Bree Serif", serif;
+}
+
+.top-container {
+  height: 780px;
+}
+.top-container .navbar .container-fluid a {
+  color: #85c88a;
+}
+.top-container .navbar .container-fluid a:hover {
+  color: black;
+}
+.top-container .navbar .container-fluid .collapse .navbar-nav {
+  margin-left: 55%;
+}
+.top-container .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link {
+  margin-top: 10px;
+  color: black;
+}
+.top-container .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link button {
+  margin-top: 0;
+  background-color: #85c88a;
+  border-radius: 50px;
+  color: white;
+  padding: 5px 30px 5px 30px;
+  border: none;
+  margin-bottom: 10px;
+  position: relative;
+  bottom: 5px;
+}
+.top-container .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link button:hover {
+  color: #85c88a;
+  background-color: white;
+  border: 2px solid grey;
+}
+.top-container .navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link:hover {
+  color: #85c88a;
+}
+
+.secondlast-container .row .card {
+  margin-bottom: 10px;
+}
+.secondlast-container .row .card i {
+  margin: 15px auto 0 auto;
+  height: 30px;
+  width: 30px;
+  color: #85c88a;
+  justify-content: center;
+  align-items: center;
+}
+.secondlast-container .row .card-body a {
+  color: #85c88a;
+  text-decoration: none;
+}
+.secondlast-container .row .card-body a:hover {
+  color: green;
+}
+
+.table-row {
+  border-bottom: 15%;
+}
+.table tr {
+  border-bottom: #f7f7f7;
+}
+.table i {
+  color: #85c88a;
+}
+
+.top-container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.top-container .row {
+  margin: 0;
+}
+.top-container .row .col-12 {
+  margin: 0;
+  padding: 0;
+}
+.top-container .row .col-12 img {
+  margin: 0;
+  width: 1900px;
+  height: 780px;
+}
+.top-container .row .col-12 .top-text {
+  position: relative;
+  bottom: 60%;
+  margin-left: 5%;
+  padding: 10%;
+}
+.top-container .row .col-12 .top-text-email input {
+  background-image: url(https://cdn4.iconfinder.com/data/icons/round-mobile-ui-set/512/letter-message-email-mail-20.png);
+  background-position: 10px center;
+  background-repeat: no-repeat;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 50px;
+  padding: 10px 5px 10px 20px;
+  text-indent: 20px;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 2s;
+  transition: all 0.2s;
+  width: 270px;
+}
+.top-container .row .col-12 .top-text-email button {
+  background-color: #85c88a;
+  border-radius: 50px;
+  color: white;
+  padding: 5px 30px 5px 30px;
+  border: none;
+  margin-bottom: 10px;
+  position: relative;
+  bottom: 5px;
+  position: relative;
+  top: 0px;
+  right: 20%;
+  padding: 10px 5px 10px 20px;
+  box-shadow: 6px 6px 6px #d8d8d8;
+}
+.top-container .row .col-12 .top-text-email button:hover {
+  color: #85c88a;
+  background-color: white;
+  border: 2px solid grey;
+}
+
+.middle-container {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.middle-container-title {
+  text-align: center;
+  color: #85c88a;
+}
+.middle-container h2 {
+  text-align: center;
+}
+.middle-container p {
+  width: 50%;
+  text-align: center;
+  line-height: 25px;
+  margin: auto;
+  margin-bottom: 10%;
+  color: grey;
+}
+.middle-container .row .col {
+  text-align: center;
+}
+
+.secondlast-container {
+  margin-left: 5%;
+}
+.secondlast-container-left_title {
+  color: #85c88a;
+}
+.secondlast-container-right {
+  position: relative;
+  top: 130px;
+  padding-left: 35%;
+}
+.secondlast-container-right i {
+  background-color: #85c88a;
+  border-radius: 50px;
+  color: white;
+  padding: 5px 30px 5px 30px;
+  border: none;
+  margin-bottom: 10px;
+  position: relative;
+  bottom: 5px;
+  padding: 20px;
+  border-radius: 100%;
+  margin: 10px;
+}
+.secondlast-container-right i:hover {
+  color: #85c88a;
+  background-color: white;
+  border: 2px solid gray;
+}
+.secondlast-container h4 {
+  width: 45%;
+}
+.secondlast-container_row {
+  margin-bottom: 200px;
+}
+.secondlast-container .card {
+  box-shadow: 6px 6px 6px #d8d8d8;
+}
+
+.bottom-container_img {
+  position: relative;
+  bottom: 100px;
+}
+.bottom-container_text {
+  margin-left: 7.5%;
+}
+.bottom-container_text__title {
+  color: #85c88a;
+}
+.bottom-container_text h4 {
+  margin-bottom: 10%;
+}
+
+/*# sourceMappingURL=style.css.map */
